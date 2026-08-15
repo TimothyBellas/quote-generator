@@ -1,7 +1,3 @@
-# Weather Checker
-
-A simple Python project demonstrating virtual environments.
-
 ## Setup
 
 1. Clone this repo
